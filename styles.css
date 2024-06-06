@@ -96,8 +96,29 @@ body {
 
 input {
     display: block;
+    border-radius: 5px;
+    border-color: #E5E7EB;
+    font-size: 1.2rem;
 }
 
+input:invalid {
+    border-color: red;
+}
+
+input:valid {
+    border-color: green;
+}
+
+input:focus {
+    border-color: rgb(10, 10, 167);
+    box-shadow: 1px 2px 9px 0px rgba(0, 0, 0, 0.429);
+}
+
+label {
+    font-size: 0.9rem;
+    font-weight: bold;
+    color: rgb(107, 106, 106);
+}
 
 .left-card {
     display: flex;
