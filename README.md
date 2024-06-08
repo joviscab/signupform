@@ -4,7 +4,7 @@
 
 Hello, my name is Joviscab and this is part of my learning to code journey!
 
-This project is called Sign-up Form and is part of the Intermediate HTML and CSS Course of The Odin Project. The idea of this project is to put to practice all the knowledge that I have acquired until now. In this project I am going to build a SIgn-up Form, following the instructions of Odin's lesson! The Sign-up Form will consist in a single page with a image and some forms.
+This project is called Sign-up Form and is part of the Intermediate HTML and CSS Course of The Odin Project. The idea of this project is to put to practice all the knowledge that I have acquired until now. In this project I am going to build a Sign-up Form, following the instructions of Odin's lesson! The Sign-up Form will consist in a single page with a image and some forms.
 
 ## Skills
 
